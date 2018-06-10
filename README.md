@@ -230,7 +230,6 @@ Assuming you used the URL of your own forked repository, we can easily push chan
 
 ### Debugging
 
-
 Review some of the common tips and suggestions [here](https://github.com/openshift/origin/blob/master/docs/debugging-openshift.md).
 
 ### Web UI
